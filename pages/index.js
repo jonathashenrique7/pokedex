@@ -35,6 +35,9 @@ export const Home = ({ pokemons }) => {
   if (page === 0) 
     setPage( page + 1 ) 
 
+  if (page === 22)
+    setPage( page - 1 )
+
   return (<>
     <div className={styles.title_container}>
       <h1 className={styles.title}>Poke <span>Next</span></h1>
