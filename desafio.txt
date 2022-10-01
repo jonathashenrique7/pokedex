@@ -1,0 +1,7 @@
+1 - Componentizar a paginação 
+
+2 - Evitar que o usuário vá para a página menos um 
+
+3 - Colocar números de páginas até cinco 
+
+4 - 
